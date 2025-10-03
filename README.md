@@ -26,7 +26,3 @@ advertisers smiling, their reach breaking through*
 
 *at Microsoft I made data replication free,  
 terabytes flowing from Cosmos DB to OneLake seamlessly*  
-
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vivekkr12)
